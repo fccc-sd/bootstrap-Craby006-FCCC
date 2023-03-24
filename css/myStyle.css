@@ -1,0 +1,91 @@
+h1
+{
+	font-size: 80px;
+}
+
+header
+{
+	background-color: orange;
+	background-image:url(../images/tiles2.png);
+	color: yellow;
+}
+
+.imageList
+{
+	float: left;
+	list-style-image:url(../images/ball.png);
+	background-color:grey;
+	border: outset thick #7A7F80;
+	margin-left: 30px;
+	font-size: 30px;
+}
+
+ul
+{
+	list-style-type: none;
+}
+
+aside
+{
+	background-image:url(../images/tiles3.png);
+	font-size:20px;
+	color: white;
+}
+
+section
+{
+	background-image:url(../images/tiles.png);
+	background-color: green;
+	color: #D3D3D3;
+}
+
+table
+{
+	border: solid 2px black;
+	border-collapse: collapse;
+	background-color: #ECEC00;
+}
+
+tr, td, th
+{
+	border: solid 2px black;
+	padding: 13px;
+	width: 150px;
+	text-align: center;
+	vertical-align: middle;
+	color: black;
+}
+
+caption
+{
+	caption-side: top;
+	font-weight: bold;
+	margin: 5px;
+}
+
+h3
+{
+	padding-top: 15px;
+}
+
+footer
+{
+	background-color: #00008B;
+	height: 50px;
+}
+
+section a
+{
+	font-size: 30px;
+	color: white;
+}
+
+body
+{
+	background-color: black;
+}
+
+.accordianColor
+{
+	background-color: black;
+}
